@@ -1,4 +1,4 @@
-# User input with if / elif / else
+# User input with nested if / elif / else
 
 anime = input("What's your favorite anime? ")
 if anime.lower() == "naruto":
